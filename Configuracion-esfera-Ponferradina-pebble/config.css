@@ -1,24 +1,27 @@
-label, select {
-    display: inline-block;
-    vertical-align: middle;
-}
-
 h1, h2, h3 {
   text-align: center;  
 }
 
-label {
+.opciones_tiempo {
+	display: inline-block;
+	width: 100%;
+}
+
+.opciones_tiempo label { 
+	float: left;
 	text-align: left;
 	font-size: 13px;
 	width: 50%;
 }
 
-select {
-	float: right;
+.opciones_tiempo select {
+		float: right;
+		width: 15%;
 }
 
 .centrado {
-  text-align: center;
+  	text-align: center;
+	width: 100%;
 }
 
 #boton_submit {
@@ -28,10 +31,10 @@ select {
 
 body { 
 	font-family: "Arial";
-	color: black;
+	color: white;
 	height: 100%;
 	background: linear-gradient(90deg, rgba(255,255,255,0.70) 50%, rgba(0,124,178,0.70) 50%), 
 	url("ponferradina-reducido-1.png") center top no-repeat;
 	z-index: 2;
 	overflow: hidden;
- }
+}
