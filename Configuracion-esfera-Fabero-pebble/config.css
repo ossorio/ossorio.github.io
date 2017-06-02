@@ -2,6 +2,7 @@ h1, h2, h3 {
   text-align: center;  
 }
 
+
 .opciones_tiempo {
 	width: 100%;
 }
@@ -10,14 +11,14 @@ h1, h2, h3 {
 	display: inline-block;
 	text-align: right;
 	font-size: 13px;
-	width: 49%;
+	vertical-align: middle;
+	width: 50%;
 }
 
 .right_section {
 	display: inline-block;
 		text-align: left;
 		width: 49%;
-		padding-left: 1%;
 }
 
 .centrado {
@@ -30,10 +31,11 @@ h1, h2, h3 {
 	font-size: 24px;
 }
 
-body { 
+html, body { 
 	font-family: "Arial";
 	color: white;
 	height: 100%;
+	width: 100%;
 	background: linear-gradient(90deg, rgba(0,0,0,0.75) 50%, rgba(204,0,0,0.75) 50%),
 	url("fabero.jpg") center top repeat;
 	z-index: 2;
