@@ -3,19 +3,21 @@ h1, h2, h3 {
 }
 
 .opciones_tiempo {
-	display: inline-block;
 	width: 100%;
 }
 
-.opciones_tiempo label { 
-	float: left;
-	text-align: left;
+.left_section { 
+	display: inline-block;
+	text-align: right;
 	font-size: 13px;
-	width: 50%;
+	width: 49%
 }
 
-.opciones_tiempo select {
-		float: right;
+.right_section {
+	display: inline-block;
+		text-align: left;
+		margin-left: 1%;
+		width: 49%
 }
 
 .centrado {
@@ -33,8 +35,7 @@ body {
 	color: white;
 	height: 100%;
 	background: linear-gradient(90deg, rgba(0,0,0,0.75) 50%, rgba(204,0,0,0.75) 50%),
-	url("fabero.jpg") center top no-repeat;
-	background-size: Auto 205px;
+	url("fabero.jpg") center top repeat;
 	z-index: 2;
 	overflow: hidden;
 }
