@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1,[000] Movistar+ HD
+rtp://239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+rtp://239.0.0.185:8208
+#EXTINF:-1,[002] La 2 HD
+rtp://239.0.0.183:8208
+#EXTINF:-1,[003] Antena 3 HD
+rtp://239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+rtp://239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+rtp://239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+rtp://239.0.0.187:8208
+#EXTINF:-1,[007] #0 HD
+rtp://239.0.5.187:8208
+#EXTINF:-1,[008] Castilla y León 7 
+rtp://239.0.0.109:8208
+#EXTINF:-1,[010] beIN LaLiga HD
+rtp://239.0.5.252:8208
+#EXTINF:-1,[013] FOX HD
+rtp://239.0.9.134:8208
+#EXTINF:-1,[014] AXN HD
+rtp://239.0.9.131:8208
+#EXTINF:-1,[015] TNT HD
+rtp://239.0.5.87:8208
+#EXTINF:-1,[016] Comedy Central HD
+rtp://239.0.0.174:8208
+#EXTINF:-1,[017] Calle 13 HD
+rtp://239.0.5.74:8208
+#EXTINF:-1,[018] COSMO HD
+rtp://239.0.5.71:8208
+#EXTINF:-1,[019] AMC HD
+rtp://239.0.9.132:8208
+#EXTINF:-1,[020] FOX life HD
+rtp://239.0.0.165:8208
+#EXTINF:-1,[021] AXN White HD
+rtp://239.0.5.79:8208
+#EXTINF:-1,[022] Syfy HD
+rtp://239.0.5.75:8208
+#EXTINF:-1,[024] MTV España
+rtp://239.0.0.211:8208
+#EXTINF:-1,[025] FDF
+rtp://239.0.0.84:8208
+#EXTINF:-1,[026] Neox
+rtp://239.0.0.107:8208
+#EXTINF:-1,[027] Atreseries HD
+rtp://239.0.0.190:8208
+#EXTINF:-1,[028] Energy
+rtp://239.0.0.59:8208
+#EXTINF:-1,[029] Movistar FAMA 24H HD
+rtp://239.0.5.193:8208
+#EXTINF:-1,[037] TCM HD
+rtp://239.0.5.89:8208
+#EXTINF:-1,[038] Hollywood HD
+rtp://239.0.5.76:8208
+#EXTINF:-1,[039] Sundance Channel HD
+rtp://239.0.5.72:8208
+#EXTINF:-1,[040] DARK
+rtp://239.0.0.39:8208
+#EXTINF:-1,[041] 13 TV
+rtp://239.0.0.91:8208
+#EXTINF:-1,[042] Ten
+rtp://239.0.0.34:8208
+#EXTINF:-1,[043] Paramount Channel
+rtp://239.0.0.90:8208
+#EXTINF:-1,[044] DEPORTES HD
+rtp://239.0.0.180:8208
+#EXTINF:-1,[047] beIN LaLiga HD
+rtp://239.0.5.252:8208
+#EXTINF:-1, [048] beIN LaLiga 1 HD
+rtp://239.0.5.253:8208
+#EXTINF:-1, [049] beIN LaLiga 2 HD
+rtp://239.0.5.254:8208
+#EXTINF:-1,[050] beIN SPORTS HD
+rtp://239.0.9.80:8208
+#EXTINF:-1,[053] Real Madrid TV HD
+rtp://239.0.0.179:8208
+#EXTINF:-1,[060] M. eSports HD
+rtp://239.0.0.178:8208
+#EXTINF:-1,[061] Eurosport 1 HD
+rtp://239.0.9.135:8208
+#EXTINF:-1,[061] Eurosport 1 HD Nuevos paquetes
+rtp://239.0.9.144:8208
+#EXTINF:-1,[062] Eurosport 2 HD
+rtp://239.0.5.105:8208
+#EXTINF:-1,[063] GOL HD
+rtp://239.0.5.189:8208
+#EXTINF:-1,[064] Teledeporte HD
+rtp://239.0.0.188:8208
+#EXTINF:-1,[065] Fútbol Replay
+rtp://239.0.0.97:8208
+#EXTINF:-1,[070] National Geographic HD
+rtp://239.0.5.78:8208
+#EXTINF:-1,[071] Nat Geo Wild HD
+rtp://239.0.9.136:8208
+#EXTINF:-1,[072] Historia
+rtp://239.0.0.19:8208
+#EXTINF:-1,[073] Discovery Channel HD
+rtp://239.0.5.77:8208
+#EXTINF:-1,[074] Odisea HD
+rtp://239.0.5.82:8208
+#EXTINF:-1,[075] BLAZE
+rtp://239.0.0.38:8208
+#EXTINF:-1,[076] Viajar HD
+rtp://239.0.5.73:8208
+#EXTINF:-1,[077] Discovery Max
+rtp://239.0.0.32:8208
+#EXTINF:-1,[078] Crimen + Investigación
+rtp://239.0.0.57:8208
+#EXTINF:-1,[079] CGTN Español
+rtp://239.0.0.65:8208
+#EXTINF:-1,[080] Cocina
+rtp://239.0.0.27:8208
+#EXTINF:-1,[081] Decasa
+rtp://239.0.0.71:8208
+#EXTINF:-1,[082] DKISS
+rtp://239.0.0.6:8208
+#EXTINF:-1,[083] Divinity
+rtp://239.0.0.48:8208
+#EXTINF:-1,[084] Nova
+rtp://239.0.0.106:8208
+#EXTINF:-1,[085] MEGA
+rtp://239.0.3.31:8208
+#EXTINF:-1,[086] BeMad HD
+rtp://239.0.0.182:8208
+#EXTINF:-1,[087] Garage TV
+rtp://239.0.0.99:8208
+#EXTINF:-1,[088] Canal Orbe 21
+rtp://239.0.0.45:8208
+#EXTINF:-1,[090] Baby TV
+rtp://239.0.0.113:8208
+#EXTINF:-1,[091] Disney Junior
+rtp://239.0.0.10:8208
+#EXTINF:-1,[092] Canal Panda
+rtp://239.0.0.117:8208
+#EXTINF:-1,[093] Nick Jr
+rtp://239.0.0.115:8208
+#EXTINF:-1,[094] Nickelodeon
+rtp://239.0.0.69:8208
+#EXTINF:-1,[095] Disney XD
+rtp://239.0.0.11:8208
+#EXTINF:-1,[096] Disney Channel HD
+rtp://239.0.0.173:8208
+#EXTINF:-1,[097] Boing
+rtp://239.0.0.66:8208
+#EXTINF:-1,[098] Clan TVE HD
+rtp://239.0.0.184:8208
+#EXTINF:-1,[105] VH1
+rtp://239.0.0.75:8208
+#EXTINF:-1,[112] Canal 24 Horas
+rtp://239.0.0.78:8208
+#EXTINF:-1,[113] BBC world
+rtp://239.0.0.30:8208
+#EXTINF:-1,[114] CNNi
+rtp://239.0.0.40:8208
+#EXTINF:-1,[115] Fox News
+rtp://239.0.7.65:8208
+#EXTINF:-1,[116] Euronews
+rtp://239.0.0.28:8208
+#EXTINF:-1,[117] Al Jazeera
+rtp://239.0.7.66:8208
+#EXTINF:-1,[118] France 24
+rtp://239.0.7.67:8208
+#EXTINF:-1,[119] Russia Today
+rtp://239.0.7.68:8208
+#EXTINF:-1,[120] CNBC Europe
+rtp://239.0.7.69:8208
+#EXTINF:-1,[122] TV5 Monde Europe
+rtp://239.0.0.31:8208
+#EXTINF:-1,[123] Bloomberg
+rtp://239.0.0.29:8208
+#EXTINF:-1,[124] Intereconomía TV
+rtp://239.0.0.63:8208
+#EXTINF:-1,[125] Libertad Digital
+rtp://239.0.0.85:8208
+#EXTINF:-1,[129] CNC World
+rtp://239.0.0.221:8208
+#EXTINF:-1,[143] EWTN
+rtp://239.0.0.72:8208
+#EXTINF:-1,[150] Canal Sur Andalucía
+rtp://239.0.0.1:8208
+#EXTINF:-1,[151] Galicia TV Europa
+rtp://239.0.3.37:8208
+#EXTINF:-1,[152] Canal Extremadura SAT
+rtp://239.0.0.52:8208
+#EXTINF:-1,[153] TV3CAT
+rtp://239.0.3.36:8208
+#EXTINF:-1,[154] ETB Sat
+rtp://239.0.0.60:8208
+#EXTINF:-1,[155] Aragón TV Int
+rtp://239.0.0.81:8208
+#EXTINF:-1,[200] La Tienda en Casa
+rtp://239.0.0.98:8208
