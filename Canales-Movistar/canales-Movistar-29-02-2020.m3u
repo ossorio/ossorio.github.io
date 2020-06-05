@@ -1,5 +1,5 @@
-﻿#EXTM3U
- #EXTINF:-1,[000] Movistar+ HD
+#EXTM3U
+#EXTINF:-1,[000] Movistar+ HD
 rtp://@239.0.5.185:8208
 #EXTINF:-1,[001] La 1 HD
 rtp://@239.0.0.185:8208
